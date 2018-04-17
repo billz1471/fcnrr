@@ -5,9 +5,9 @@ Fake Cops n' Real Robbers
 
 
 ## 1. Login and Register System
--[ ] Create a working register system
+- [ ] Create a working register system
 - [ ] Creating a working login system
 - Features:
-  - Type password in twice when registering to confirm password
-  - Allow users to add their email for recovery (optional)
-  - Add additional login authencation such as a pin code.
+  - Type password in twice when registering to confirm password ``` password1, password1 ```
+  - Allow users to add their email for recovery (optional) ``` my@ema.il ```
+  - Add additional login authencation such as a pin code. ``` 1234 ```
