@@ -15,4 +15,4 @@ Fake Cops n' Real Robbers
   - Gender `male, female`
   - Age `16 ... 36`
   - Place of origin `Canada`
-  - Civillian class `Con Artist, Robber, Hitman, Lawyer, Mechanic, Private medic, Trucker`
+  - Civillian class `Con Artist, Robber, Hitman, Lawyer, Mechanic, Private medic`
