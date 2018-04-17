@@ -37,3 +37,16 @@ Fake Cops n' Real Robbers
 - [ ] Recruit `I`
 
 ***
+
+## 3. Set-up FBI class
+  ### FBI
+- [ ] New Agent Trainee `I`
+- [ ] Special Agent `II`
+- [ ] Senior Special Agent `I`
+- [ ] Supervisory Special Agent `III`
+- [ ] Assistant Special Agent-in-Charge (ASAC) `I`
+- [ ] Special Agent-in-Charge (SAC) `I`
+- [ ] Deputy Assistant Director `I`
+- [ ] Assistant Director `II`
+- [ ] Deputy Director `I`
+- [ ] Director `I`
