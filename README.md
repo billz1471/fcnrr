@@ -50,3 +50,15 @@ Fake Cops n' Real Robbers
 - [ ] Assistant Director `II`
 - [ ] Deputy Director `I`
 - [ ] Director `I`
+
+***
+
+# 4. Set-up S.W.A.T class
+  ### S.W.A.T
+- [ ] Private `I`
+- [ ] Sergeant `II`
+- [ ] Lieutenant `IV`
+- [ ] Captain `II`
+- [ ] Major `III`
+- [ ] Vice Commander `I`
+- [ ] Commander `I`
