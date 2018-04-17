@@ -15,7 +15,7 @@ Fake Cops n' Real Robbers
   - Place of origin `Canada`
   - Civillian class `Con Artist, Robber, Hitman, Lawyer, Mechanic, Private medic`
   
-  ***
+***
   
 ## 2. Set-up Cops class
 
