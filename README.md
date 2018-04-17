@@ -1,9 +1,9 @@
 # fcnrr
 Fake Cops n' Real Robbers
 
-#  ** To-do **
+#  To-do 
 
-  ## 1. Login and Register System
+## 1. Login and Register System
 - [ ] Create a working register system
   - Type password in twice when registering to confirm password ` password1, password1 `
   - Allow users to add their email for recovery ` my@ema.il `
@@ -17,8 +17,10 @@ Fake Cops n' Real Robbers
   - Place of origin `Canada`
   - Civillian class `Con Artist, Robber, Hitman, Lawyer, Mechanic, Private medic`
   
-  ## 2. Set-up Cops class
+  ***
   
+## 2. Set-up Cops class
+
   ### Police 
 - [ ] Chief of Police `I`
 - [ ] Deputy Chief `II`
@@ -35,3 +37,5 @@ Fake Cops n' Real Robbers
 - [ ] Police Officer `II`
 - [ ] Police Cadet `I`
 - [ ] Recruit `I`
+
+***
