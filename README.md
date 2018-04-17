@@ -10,3 +10,9 @@ Fake Cops n' Real Robbers
   
 - [ ] Creating a working login system
   - Add additional login authencation such as a pin code. ``` 1234 ```
+
+- [ ] Finish account set-up
+  - Gender `male, female`
+  - Age `16 ... 36`
+  - Place of origin `Canada`
+  - Civillian class `Con Artist, Robber, Hitman, Lawyer, Mechanic, Private medic, Trucker`
